@@ -247,7 +247,6 @@ header .container{
 .about-content {
 	flex-basis: 50%;
 	background: #1f1f1f;
-	margin: auto 0;
 	padding: 85px;
 	box-sizing: border-box;
 }
